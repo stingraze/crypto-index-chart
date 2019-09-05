@@ -4,7 +4,6 @@ import ssl
 import shutil
 import numpy as np
 import pandas as pd
-import pandas as pd2
 import matplotlib.pyplot as plt
 import csv
 import os
