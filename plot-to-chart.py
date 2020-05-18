@@ -6,7 +6,7 @@ import pandas as pd2
 import matplotlib.pyplot as plt
 import numpy.ma as ma
 
-df2 = pd2.read_csv('csv3.csv',skiprows=0)
+df2 = pd2.read_csv('csv2.csv',skiprows=0)
 
 
 #print(len(df2))
